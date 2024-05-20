@@ -1,0 +1,58 @@
+.block2 {
+    margin-left: 500px;
+    display: inline-block;
+}
+.block1 {
+    display: flex;
+}
+body {
+    background-color: rgb(153,156,155);
+}
+.zxc {
+    width: 40%;
+    height: 850px;
+}
+.asd {
+    background: rgb(153,156,155);
+    height: 375px;
+}
+.qwe {
+    background: rgb(153,156,155); 
+    height: 375px;
+    margin-top: 50px;
+}
+.a {
+    color: white;
+}
+.b {
+    color: white;
+}
+span {
+    font-size: 35px;
+}
+img {
+    display: inline;
+}
+.xc {
+    margin-left: 145%;
+    position: relative;
+    bottom:235px;
+    left: 10px;
+}
+.cx {
+    margin-left: 145%;
+    position: relative;
+    bottom:180px;
+    left:50px
+}
+.as {
+    background: rgb(153,156,155);
+    height: 380px;
+}
+.sa {
+    background: rgb(153,156,155);
+    height: 380px;
+    position: relative;
+    left:1100px;
+    bottom:405px;
+}
